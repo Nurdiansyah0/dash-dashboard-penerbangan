@@ -1,0 +1,20 @@
+# Data
+csv
+xlsx
+data/
+__pycache__/
+*.pkl
+*.h5
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+env/
+.venv/
+.env
+
+# VSCode / PyCharm
+.vscode/
+.idea/
